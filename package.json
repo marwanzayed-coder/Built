@@ -1,0 +1,19 @@
+{
+  "name": "built-javascript",
+  "version": "1.0.0",
+  "description": "Built is a JavaScript framework that has a JavaScript function, but with more features",
+  "main": "join.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marwanzayed-coder/Built.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marwanzayed-coder/Built/issues"
+  },
+  "homepage": "https://github.com/marwanzayed-coder/Built#readme"
+}
