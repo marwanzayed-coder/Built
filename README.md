@@ -7,7 +7,7 @@ Marwan is a JavaScript framework that has a JavaScript function, but with more f
 Using npm
 
 ```bash
-npm install marwan
+npm install marwan --save
 ```
 
 ## Usage
