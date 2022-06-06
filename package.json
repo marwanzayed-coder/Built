@@ -1,5 +1,5 @@
 {
-  "name": "built-javascript",
+  "name": "built-function",
   "version": "1.0.0",
   "description": "Built is a JavaScript framework that has a JavaScript function, but with more features",
   "main": "join.js",

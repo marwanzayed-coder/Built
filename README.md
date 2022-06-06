@@ -7,7 +7,7 @@ Built is a JavaScript framework that has a JavaScript function, but with more fe
 Using npm
 
 ```bash
-npm install built-javascript --save
+npm install built-function --save
 ```
 
 ## Usage
